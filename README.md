@@ -11,5 +11,5 @@ Main program process:
 4. Save to SQL database
 
 Currently being developed:
-5. Run regressions to arrive at estimates
-6. Display to dashboard
+1. Run regressions to arrive at estimates
+2. Display to dashboard
